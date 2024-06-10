@@ -170,7 +170,7 @@
     <visual>
       <origin rpy="0.0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://urdf_tutorial/meshes/l_finger.dae"/>
+        <mesh filename="package://manipulator/meshes/l_finger.dae"/>
       </geometry>
     </visual>
   </link>
@@ -184,7 +184,7 @@
     <visual>
       <origin rpy="0.0 0 0" xyz="0.09137 0.00495 0"/>
       <geometry>
-        <mesh filename="package://urdf_tutorial/meshes/l_finger_tip.dae"/>
+        <mesh filename="package://manipulator/meshes/l_finger_tip.dae"/>
       </geometry>
     </visual>
   </link>
@@ -198,7 +198,7 @@
     <visual>
       <origin rpy="-3.1415 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://urdf_tutorial/meshes/l_finger.dae"/>
+        <mesh filename="package://manipulator/meshes/l_finger.dae"/>
       </geometry>
     </visual>
   </link>
@@ -212,7 +212,7 @@
     <visual>
       <origin rpy="-3.1415 0 0" xyz="0.09137 0.00495 0"/>
       <geometry>
-        <mesh filename="package://urdf_tutorial/meshes/l_finger_tip.dae"/>
+        <mesh filename="package://manipulator/meshes/l_finger_tip.dae"/>
       </geometry>
     </visual>
   </link>
